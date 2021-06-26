@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on Curl IQ
-- 📫 How to reach me: @kymsmilesxd
+📫 How to reach me: @kymsmilesxd
 
 
 <!--
